@@ -136,7 +136,7 @@
     "TopBox": {
       "Enabled": true,
       "BackColor": {
-        "A": 255,
+        "A": 128,
         "R": 30,
         "G": 34,
         "B": 254
