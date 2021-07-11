@@ -210,18 +210,18 @@
     },
     "ExecuteButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -233,18 +233,18 @@
     },
     "ClearButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -256,18 +256,18 @@
     },
     "OpenFileButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -279,18 +279,18 @@
     },
     "ExecuteFileButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -302,18 +302,18 @@
     },
     "SaveFileButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -325,18 +325,18 @@
     },
     "OptionsButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -348,18 +348,18 @@
     },
     "AttachButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
@@ -371,18 +371,18 @@
     },
     "ScriptHubButton": {
       "Image": {
-        "Path": "https://raw.githubusercontent.com/SuperGamingBros4/Synapse-X-Themes/main/Powered%20X/Button.png",
-        "Online": true
+        "Path": "",
+        "Online": false
       },
       "Font": {
         "Name": "Segoe UI",
         "Size": 14.0
       },
       "BackColor": {
-        "A": 0,
-        "R": 60,
-        "G": 60,
-        "B": 60
+        "A": 255,
+        "R": 0,
+        "G": 80,
+        "B": 251
       },
       "TextColor": {
         "A": 255,
